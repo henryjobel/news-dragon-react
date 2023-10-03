@@ -32,7 +32,7 @@ const Navbar = () => {
                         <img src={userPhoto} />
                     </div>
                 </label>
-                <Link to="login"><button className='btn'>Login</button></Link>
+                <Link to="/login"><button className='btn'>Login</button></Link>
 
             </div>
         </div>
